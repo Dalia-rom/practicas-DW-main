@@ -2,8 +2,8 @@
 const env = {
   database: 'neondb',
   username: 'neondb_owner',
-  password: 'npg_krJnSM39GNdc',
-  host: 'ep-gentle-surf-aftsc0p4-pooler.c-2.us-west-2.aws.neon.tech',
+  password: 'npg_slTOG0q2pZkE',
+  host: 'ep-royal-dust-a49bhpga-pooler.us-east-1.aws.neon.tech',
   dialect: 'postgres',
   dialectOptions: {
     ssl: {
